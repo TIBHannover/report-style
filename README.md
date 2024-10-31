@@ -2,15 +2,13 @@
 
 Style name: Appoloosa
 
-An example style for reports to produce multi-format outputs from a single source input using the A-Machine extensible publishing pipeline. The style covers: web, PDF, print-on-demand, paged web, and ebook.
+An example style for reports to produce multi-format outputs from a single source input using an extensible publishing pipeline. The style covers: web, PDF, print-on-demand, paged web, and ebook.
 
-Publication demo: https://a-machine.github.io/report-demo/
+Publication demo: https://TIBHannover.github.io/report-demo/
 
-Repo: https://github.com/a-machine/report-demo
+Repo: https://github.com/TIBHannover/report-demo
 
-Style code: https://github.com/a-machine/appoloosa-report-style
-
-Style issues: https://github.com/orgs/a-machine/projects/1/views/1
+Style code: https://github.com/TIBHannover/appoloosa-report-style
 
 v1.0, 2023
 
@@ -28,11 +26,9 @@ v1.0, 2023
 
 Respective open-source licences apply.
 
-Code by A-Machine is GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html 
+Code is GPLv3 https://www.gnu.org/licenses/gpl-3.0.en.html 
 
 ### Development
-
-Run apps locally https://github.com/a-machine/opd/wiki/Running-Design-Apps-As-Local
 
 Vivliostyle path
 
