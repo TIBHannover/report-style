@@ -1,4 +1,4 @@
-## Demo Style for Reports
+## Book Style for use with Fidus Writer or other CSS Paged Media
 
 Style name: Appoloosa
 
